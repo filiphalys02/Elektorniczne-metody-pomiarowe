@@ -100,9 +100,9 @@ void loop() {
   }
   //else lcd.print("Nie wcisnieto");
   lcd.setCursor(0,0);
-  lcd.print("               ");
+  lcd.print("                ");
   lcd.setCursor(0,1);
-  lcd.print("               ");
+  lcd.print("                ");
   lcd.setCursor(x, y);
   lcd.print("*");
   if(y>1){
