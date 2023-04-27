@@ -22,7 +22,7 @@ void loop() {
     sr=sr+pin;
     szum=sr/i;
     sr_tr = sr_tr + pin;
-    if(i>10 && pin>5*szum){
+    if(i>10 && pin>3*szum){
       Serial.println("Siiiiiuuuu!");
       sr=sr-pin;
       i=i-1;
