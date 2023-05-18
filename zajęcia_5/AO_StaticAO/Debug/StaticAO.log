@@ -1,0 +1,4 @@
+﻿cl : wiersz polecenia  warning D9035: Opcja "Gm" jest przestarzała i będzie usunięta w przyszłych wydaniach
+  StaticAO.cpp
+C:\Users\student\Desktop\EMP_HS\zajęcia_5\AO_StaticAO\StaticAO.cpp(101,13): warning C4244: "argument": konwersja z "double" do "DWORD", możliwa utrata danych
+  StaticAO.vcxproj -> C:\Users\student\Desktop\EMP_HS\zajęcia_5\bin\debug\AO_StaticAO.exe
